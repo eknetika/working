@@ -1,0 +1,56 @@
+
+
+h1{
+    text-align: center;
+  
+}
+
+header{
+    margin: 10px 5px;
+    padding: 10px 0px;
+    
+}
+
+._nav{
+    text-align: right;
+    text-decoration: none;
+}
+
+.a_nav{
+    
+    padding:  10px 40px;
+    text-decoration: none;
+    border: 3px solid black;
+    background: red;
+    
+}
+
+.th_t{
+    padding: 15px;
+   
+}
+
+table{
+    text-align: center;
+     border-collapse: collapse;
+  
+}
+
+th, td{
+    border: 3px solid black;
+    padding: 10px;
+   
+}
+
+footer{
+    text-align: center;
+    display: inline;
+}
+
+.ff{
+    position: absolute;
+    text-align: center;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+}
